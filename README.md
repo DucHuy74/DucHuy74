@@ -20,8 +20,5 @@
   <a href="mailto:hoangleduchuy@gmail.com" target="_top">
     <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email" width="70" />
   </a>
-  <a href="https://phenikaa-uni.edu.vn/vi" target="_top">
-    <img src="./img/logoPKA.png" alt="Phenikaa Uni" width="70" />
-  </a>
 </div>
 
